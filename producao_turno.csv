@@ -1,0 +1,6 @@
+﻿numeroLote;tipoLiga;pesoTotal;temperaturaFundicao;statusQualidade
+1001;Aço Inox 304;1520.5;1450.0;Aprovado
+1002;Aço Carbono 1045;1380.0;1520.5;Aprovado
+1003;Liga de Titânio;980.75;1670.0;Reprovado
+1004;Aço Inox 316;1610.2;1475.5;Aprovado
+1005;Liga de Alumínio;1120.0;660.0;Em análise
